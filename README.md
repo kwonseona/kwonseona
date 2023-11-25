@@ -3,29 +3,29 @@
 ---
 
 ## 🔧 Tech
-![Photoshop](https://img.shields.io/badge/-Photoshop-blue?logo=adobe-photoshop&logoColor=white) : ███████████████████░ 90%
+![Photoshop](https://img.shields.io/badge/-Photoshop-blue?logo=adobe-photoshop&logoColor=white)  ███████████████████░ 90%
 </br>
-![Adobe XD](https://img.shields.io/badge/-XD-FF2E63?logo=adobe-xd&logoColor=white) : ██████████░░░░░░░░░░ 50%
+![Adobe XD](https://img.shields.io/badge/-XD-FF2E63?logo=adobe-xd&logoColor=white)  ██████████░░░░░░░░░░ 50%
 </br>
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white) : ████████████░░░░░░░░ 60%
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)  ████████████░░░░░░░░ 60%
 </br>
-![Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?logo=adobe-illustrator&logoColor=white) : ████████████████░░░░ 80%
+![Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?logo=adobe-illustrator&logoColor=white)  ████████████████░░░░ 80%
 </br>
-![Premiere Pro](https://img.shields.io/badge/-Premiere_Pro-4E4E4E?logo=adobe-premiere-pro&logoColor=white) : ██████████████░░░░░░ 70%
+![Premiere Pro](https://img.shields.io/badge/-Premiere_Pro-4E4E4E?logo=adobe-premiere-pro&logoColor=white)  ██████████████░░░░░░ 70%
 </br>
-![After Effects](https://img.shields.io/badge/-After_Effects-9999FF?logo=adobe-after-effects&logoColor=white) : ██████████████░░░░░░ 70%
+![After Effects](https://img.shields.io/badge/-After_Effects-9999FF?logo=adobe-after-effects&logoColor=white)  ██████████████░░░░░░ 70%
 </br>
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white) : ████████████░░░░░░░░ 60%
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)  ████████████░░░░░░░░ 60%
 </br>
-![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white) : ███████████████████░ 90%
+![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white)  ███████████████████░ 90%
 </br>
-![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white) : ███████████████████░ 90%
+![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white)  ███████████████████░ 90%
 </br>
-![Sass](https://img.shields.io/badge/-Sass-CC6699?logo=sass&logoColor=white) : ███████████████████░ 90%
+![Sass](https://img.shields.io/badge/-Sass-CC6699?logo=sass&logoColor=white)  ███████████████████░ 90%
 </br>
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white) : ██████████████░░░░░░ 70%
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white)  ██████████████░░░░░░ 70%
 </br>
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white) : ██████████████░░░░░░ 70%
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white)  ██████████████░░░░░░ 70%
 
 ## 📞 Social
 [![Blog](https://img.shields.io/badge/Blog-velog.io-03C75A?style=flat-square&logo=vercel&logoColor=white)](https://velog.io/@tjsdk88802)
