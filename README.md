@@ -20,7 +20,7 @@
 |![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white)|██████████████░░░░░░ 70%|
 
 ## 📞 Social
-[![Blog](https://img.shields.io/badge/Blog-velog.io-03C75A?style=flat-square&logo=vercel&logoColor=white)](https://velog.io/@tjsdk88802)
-[![Instagram](https://img.shields.io/badge/Instagram-Profile-C13584?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/tlswlals98/)
-[![Facebook](https://img.shields.io/badge/Facebook-Profile-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100007928118365&locale=ko_KR)
-[![Email](https://img.shields.io/badge/Email-gwonsuna9964%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:gwonsuna9964@gmail.com)
+[![Blog](https://img.shields.io/badge/Blog-velog-03C75A?style=flat-square&logo=vercel&logoColor=white)](https://velog.io/@tjsdk88802)
+[![Behance](https://img.shields.io/badge/Behance-Profile-0000FF?style=flat-square&logo=behance&logoColor=white)](https://www.behance.net/cc1ec9e2)
+[![Instagram](https://img.shields.io/badge/Instagram-Profile-C13584?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/jamie_uiux/)
+[![Email](https://img.shields.io/badge/Email-jamieuiux@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:jamieuiux@gmail.com)
