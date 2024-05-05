@@ -6,12 +6,12 @@
 ## 🔧 Tech
 | Tool          | Proficiency |
 |---------------|-------------|
-|![Photoshop](https://img.shields.io/badge/-Photoshop-blue?logo=adobe-photoshop&logoColor=white)|███████████████████░ 90%|
+|![Photoshop](https://img.shields.io/badge/-Photoshop-blue?logo=adobe-photoshop&logoColor=white)|████████████████████ 100%|
 |![Adobe XD](https://img.shields.io/badge/-XD-FF2E63?logo=adobe-xd&logoColor=white)|███████████████████░ 90%|
-|![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)|███████████████████░ 90%|
+|![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)|████████████████████ 90%|
 |![Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?logo=adobe-illustrator&logoColor=white)|████████████████░░░░ 80%|
 |![Premiere Pro](https://img.shields.io/badge/-Premiere_Pro-4E4E4E?logo=adobe-premiere-pro&logoColor=white)|██████████████░░░░░░ 70%|
-|![After Effects](https://img.shields.io/badge/-After_Effects-9999FF?logo=adobe-after-effects&logoColor=white)|██████████████░░░░░░ 70%|
+|![After Effects](https://img.shields.io/badge/-After_Effects-9999FF?logo=adobe-after-effects&logoColor=white)|██████████░░░░░░░░░░ 40%|
 |![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)|████████████░░░░░░░░ 60%|
 |![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white)|███████████████████░ 90%|
 |![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white)|███████████████████░ 90%|
